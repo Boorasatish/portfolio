@@ -18,6 +18,7 @@ gap: 30px;
 display: grid;
 grid-template-columns: auto auto;
 text-align: center;
+
 }
 
 .sec6 >:nth-child(2){

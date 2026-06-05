@@ -4,8 +4,8 @@
     align-items: center;
     justify-content: end;
     gap: 80px;
-    padding-top: 130px;
-    height: 60vh;
+    padding-top: 70px;
+    height:130vh;
 }
 .sec-5-1{
     display: flex;
@@ -48,8 +48,9 @@
     
 .sec-5-2{
 
-    gap: 20px;
+    gap: 10px;
     padding: 10px;
+    
  
 }
 
